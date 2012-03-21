@@ -18,4 +18,4 @@
 
 # Sonstige Probleme
 - Vergessen auszuloggen
-
+- Gleiches Passwort für alle Accounts
